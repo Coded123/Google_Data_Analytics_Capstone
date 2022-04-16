@@ -22,7 +22,7 @@ Analyse bike trip data to understand how casual riders and annual members use Cy
 # Information on Data source
 1.	Historical Cyclistic Trip Data – publicly available, stored across multiple csv files
 2.	Collected automatically by Cyclistic – primary data source therefore reliable 
-3.	The data has been made available by Motivate International Inc. under this [license] (https://www.divvybikes.com/data-license-agreement) 
+3.	The data has been made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement) 
 
 # Tools 
 Python for data cleaning and analysis. Various packages to aid the analysis. Tableau for data visualisation
