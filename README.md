@@ -26,4 +26,5 @@ Analyse bike trip data to understand how casual riders and annual members use Cy
 
 # Tools 
 Python for data cleaning and analysis. Various packages to aid the analysis. Tableau for data visualisation
-Summary findings
+
+Data Visualisation, Summary and Recommendations have all been published on Tableau Public. Please find the link [here](https://public.tableau.com/views/CyclisticBikeShareAnalyticsGoogleDataAnalyticsCapstoneProject/Bike_Share_TTM_Analytics?:language=en-GB&:display_count=n&:origin=viz_share_link)
