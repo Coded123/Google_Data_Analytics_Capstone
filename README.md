@@ -1,7 +1,10 @@
 # INTRODUCTION
 This case study is the Capstone Project of Google Data Analytics Professional Certificate.
+
 Title:  Cyclistic bike-share analysis
+
 Author: Zayd M
+
 Date: 9 April 2022
 
 # Background 
@@ -27,4 +30,4 @@ Analyse bike trip data to understand how casual riders and annual members use Cy
 # Tools 
 Python for data cleaning and analysis. Various packages to aid the analysis. Tableau for data visualisation
 
-## Data Visualisation, Summary and Recommendations have all been published on Tableau Public. Please find the link [here](https://public.tableau.com/views/CyclisticBikeShareAnalyticsGoogleDataAnalyticsCapstoneProject/Bike_Share_TTM_Analytics?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Data Visualisation, Summary and Recommendations have all been published on Tableau Public. Please find the link [here](https://public.tableau.com/views/CyclisticBikeShareAnalyticsGoogleDataAnalyticsCapstoneProject/Bike_Share_TTM_Analytics?:language=en-GB&:display_count=n&:origin=viz_share_link)
