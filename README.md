@@ -3,8 +3,6 @@ This case study is the Capstone Project of Google Data Analytics Professional Ce
 
 Title:  Cyclistic bike-share analysis
 
-Author: Zayd M
-
 Date: 9 April 2022
 
 # Background 
